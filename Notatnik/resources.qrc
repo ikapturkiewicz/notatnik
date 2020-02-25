@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/icons8-alpaca-50.png</file>
+        <file>icons/icons8-cat-50.png</file>
+        <file>icons/icons8-chimpanzee-50.png</file>
+        <file>icons/icons8-dog-50.png</file>
+        <file>icons/icons8-orca-50.png</file>
+        <file>icons/icons8-pig-50.png</file>
+        <file>icons/icons8-turtle-50.png</file>
+        <file>icons/icons8-unicorn-50.png</file>
+        <file>icons/icons8-bug-50.png</file>
+        <file>icons/icons8-shark-50.png</file>
+        <file>icons/icons8-b-50.png</file>
+        <file>icons/icons8-i-50.png</file>
+        <file>icons/icons8-u-50.png</file>
+        <file>icons/icons8-swatch-50.png</file>
+        <file>icons/icons8-delete-document-50.png</file>
+        <file>icons/icons8-edit-property-50.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons/icons8-delete-document-50.png</file>
+        <file>icons/icons8-edit-property-50.png</file>
+    </qresource>
+</RCC>
